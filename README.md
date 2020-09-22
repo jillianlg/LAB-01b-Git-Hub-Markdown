@@ -1,9 +1,9 @@
 # LAB-01b-Git-Hub-Markdown
 Alchemy-Foundations
 
-1) Access your Git Hub account and creat a new repository with a README.md
+1) Access your Git Hub account and create a new repository with a README.md
 1) Copy the git hub link.
-1) Open the command terminal and colne the repo with 'git clone' and the git hub URL you copied.
+1) Open the command terminal and clone the repo with 'git clone' and the git hub URL you just copied from Git Hub.
 1) Access the folder with 'cd name-of-git-repo'
 1) Open the repo in VS Code with 'code .'  
 
